@@ -1,0 +1,6 @@
+keras
+numpy
+opencv-python
+pandas
+streamlit
+tensorflow
