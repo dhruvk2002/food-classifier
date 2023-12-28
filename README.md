@@ -4,6 +4,10 @@
 
 This project is a food classification application that uses deep learning to identify various food items from images. The model is trained on a dataset consisting of 20 different food classes, enabling it to predict the type of food present in a given image.
 
+<div style="background-color: #ffcccc; padding: 10px; border: 1px solid #ff0000;">
+  <strong>Note:</strong> If the deployed link is not working due to error in resources kindly prefer running locally using command mentioned below.
+</div>
+
 ## Table of Contents
 
 - [Demo](#demo)
